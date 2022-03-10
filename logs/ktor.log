@@ -1,3 +1,0 @@
-[2022-03-10 12:26:14,428]-[main] INFO  Application - No ktor.deployment.watch patterns match classpath entries, automatic reload is not active
-[2022-03-10 12:26:14,812]-[main] INFO  Application - Responding at http://0.0.0.0:8080
-[2022-03-10 12:26:14,812]-[main] INFO  Application - Application started in 0.477 seconds.
